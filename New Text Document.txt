@@ -1,1 +1,2 @@
 Git session text file.
+Adding more line to the text file.
